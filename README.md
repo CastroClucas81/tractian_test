@@ -28,7 +28,7 @@ Obs.: Tomei a liberdade para fazer modificações no Design System do app, poré
 ## 🎥 Fluxo do aplicativo
 
 <video width="320" height="240" controls>
-  <source src="assets/readme/apresentation.mp4" type="video/mp4">
+  <source src="https://github.com/CastroClucas81/tractian_test/assets/68257824/82f2f04f-0eb3-4152-adfb-3d27e26e5ac5" type="video/mp4">
 </video>
 
 ## :rocket: Pacotes utilizados

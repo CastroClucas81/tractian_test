@@ -39,6 +39,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
-    
+    - assets/readme/
+
 flutter_intl:
   enabled: true
