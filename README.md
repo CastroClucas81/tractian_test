@@ -54,7 +54,7 @@ $ git clone https://github.com/CastroClucas81/tractian_test.git
 $ flutter pub get
 
 # Rode a aplicação
-$ flutter run
+$ flutter run --dart-define-from-file envs/integration.json --flavor integration
 ```
 
 ## :page_facing_up: Licença
