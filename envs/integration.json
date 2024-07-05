@@ -1,0 +1,5 @@
+{
+  "appIdentifier": "com.tractian.test.integration",
+  "appName": "[INT] Teste Tractian",
+  "baseUrl": "https://fake-api.tractian.com/"
+}

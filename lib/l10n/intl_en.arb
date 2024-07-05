@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "noCompaniesAvailable": "There are no registered companies",
+  "AnErrorOccurredWhenListCompanies": "An error occurred when listing Companies",
+  "assets": "Assets",
+  "searchActiveOrLocal": "Search Asset or Location",
+  "energySensor": "Energy Sensor",
+  "critic": "Critic",
+  "anErrorOccurredWhenListAssets": "An error occurred when listing Assets",
+  "noResults": "No results",
+  "search": "Search",
+  "clear": "Clear",
+  "filters": "Filters"
+}
