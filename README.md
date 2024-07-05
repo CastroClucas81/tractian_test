@@ -31,6 +31,8 @@ Obs.: Tomei a liberdade para fazer modificações no Design System do app, poré
   <source src="https://github.com/CastroClucas81/tractian_test/assets/68257824/82f2f04f-0eb3-4152-adfb-3d27e26e5ac5" type="video/mp4">
 </video>
 
+[Link do vídeo](https://github.com/CastroClucas81/tractian_test/assets/68257824/82f2f04f-0eb3-4152-adfb-3d27e26e5ac5)
+
 ## :rocket: Pacotes utilizados
 
 - [GetIt](https://pub.dev/packages/get_it)
